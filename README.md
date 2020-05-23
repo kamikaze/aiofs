@@ -1,0 +1,2 @@
+# aiofs
+Python AsyncIO filesystem
